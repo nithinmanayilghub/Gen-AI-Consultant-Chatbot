@@ -1,14 +1,10 @@
 # use-case-gen
 
-## Overview
-This project features a chatbot designed to provide expert advice on leveraging Generative Artificial Intelligence (Generative AI) in businesses to enhance revenue and productivity. The chatbot simulates interaction with a Generative AI expert, offering brainstorming sessions and practical use case suggestions tailored to specific business contexts.
+**gen ai use cases**
 
-## Features
-- Generative AI Expertise: The chatbot acts as a virtual consultantspecializing in Generative AI technologies.
-- Use Case Generation: Provides creative and practical use cases where Generative AI can be applied to boost business operations.
-- Holistic Planning: Guides users through step-by-step plans for implementing Generative AI solutions in their businesses.
-- Contextual Understanding: Able to process business context provided via URL or text to tailor advice accordingly.
-- Focused Expertise: Responds only to queries related to Generative AI applications; redirects non-relevant queries politely.
+## Description
+
+`use-case-gen` is a tool designed to generate AI use cases. This repository provides the necessary code and instructions to set up and run the application.
 
 ## Prerequisites
 
